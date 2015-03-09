@@ -1,0 +1,16 @@
+name: Mahsa's Blog
+description: Tilte
+meta_description: "Description"
+markdown: redcarpet
+redcarpet:
+ extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url: 'http://engmahsa.github.io'
+author: 'Mahsa Mohammadi'
+author_description: 'about me ...'
