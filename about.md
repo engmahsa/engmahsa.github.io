@@ -4,7 +4,7 @@ title: About me
 ---
 
  <section class="author">
-   <header> <a href="{{ site.baseurl }}"> <img class="profile" src="" alt="Author's profile picture"></a></header>
+   <header> <a href="{{ site.baseurl }}"> <img class="profile" src="/assets/images/mahsaAvatar.png" alt="Author's profile picture"></a></header>
    <article>
       <p>
          {{ site.author_description }}
