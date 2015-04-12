@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Test 2 Post"
-date:   2015-12-17 17:46:33
-categories: test blog github jekyll
----
-
-
-Just a simple test!
