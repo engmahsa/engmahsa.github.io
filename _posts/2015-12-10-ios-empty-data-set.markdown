@@ -4,13 +4,14 @@ title:  "iOS Empty DataSet"
 date:   2015-12-10 17:46:33
 categories: UITableView emptyset
 ---
+Most applications use a special design for empty views (empty states of application)for having more impression on users and also better user experience . at this document you can find How to show a blank page in UITableview.
 
 
-===== Empty Data Set =====
+## Empty Data Set
 
 Empty Views are helpful for Avoiding white-screens and communicating to your users why the screen is empty.
 
-==== how to use ====
+### How to use
 
 *make an UIView nib file just like as “EmptyView.xib” in the project.
 *insert an UIImageView and labels to design the empty data set. 
@@ -34,6 +35,6 @@ and override the “reloadData” of table with.
 
 * @interface FirstTableViewController : EmptyTableViewController
 
-==== Sample Code ====
+### Sample Code
 
 A sample code of UITableView EmptyDataSet is available in [this repository](https://github.com/engmahsa/EmptyDataSet). 
